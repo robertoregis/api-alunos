@@ -45,7 +45,7 @@ ajuda a manter estilos de codificação consistentes para vários desenvolvedore
     # Escolha um local... Ex: Desktop
 
     # Você vai clocar o repositório
-    $ git clone https://github.com/robertoregis/projetoagenda
+    $ git clone https://github.com/robertoregis/api-alunos.git
 
     # Você vai entrar no diretório
     $ cd nomedodiretório
@@ -60,6 +60,6 @@ ajuda a manter estilos de codificação consistentes para vários desenvolvedore
 
 ---
 
-Ou você pode baixar no próprio GitHub [clicando aqui](https://github.com/robertoregis/projetoagenda). Lá clique no botão Code.
+Ou você pode baixar no próprio GitHub [clicando aqui](https://github.com/robertoregis/api-alunos.git). Lá clique no botão Code.
 
 ### Created by Roberto Regis 😆
